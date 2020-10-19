@@ -12,11 +12,11 @@ var bg
 var title,hello
 
 function preload(){
-car1i=loadImage("images/car1.png")
-car2i=loadImage("images/car2.png")
-car3i=loadImage("images/car3.png")
-car4i=loadImage("images/car4.png")
-bg=loadImage("images/track.jpg")
+car1i=loadImage("car1.png")
+car2i=loadImage("car2.png")
+car3i=loadImage("car3.png")
+car4i=loadImage("car4.png")
+bg=loadImage("track.jpg")
 
 }
 
